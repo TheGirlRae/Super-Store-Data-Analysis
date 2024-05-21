@@ -4,7 +4,7 @@ This is a Sales Dataset from Super Store in the United States. Super Store is a 
 The tools used for this dataset and analysis are:
 
 Data cleaning and Validation on Power Query
-Data Transformation and Vizulaization on Microsoft PowerBI
+Data Transformation and Visualization on Microsoft PowerBI
 
 # Project Description
 The main aim of the project is to uncover insights into the store's sales and profits trends and patterns from 2014 to 2017. After cleaning the data, the profits trends were visualized by states, region, segemnts, and timeline over the months. Additionally, top-performing, least-performing products and the most profitable customers, % of Transaction shipmentsc,Sales distribution by city were identified. 
