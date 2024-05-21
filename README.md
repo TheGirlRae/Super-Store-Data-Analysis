@@ -7,7 +7,7 @@ Data cleaning and Validation on Power Query
 Data Transformation and Visualization on Microsoft PowerBI
 
 # Project Description
-The main aim of the project is to uncover insights into the store's sales and profits trends and patterns from 2014 to 2017. After cleaning the data, the profits trends were visualized by states, region, segemnts, and timeline over the months. Additionally, top-performing, least-performing products and the most profitable customers, % of Transaction shipmentsc,Sales distribution by city were identified. 
+The main aim of the project is to uncover insights into the store's sales and profits trends and patterns from 2014 to 2017. After cleaning the data, the profits trends were visualized by states, region, segemnts, and timeline over the months. Additionally, top-performing, least-performing products and the most profitable customers, % of Transaction shipments,Sales distribution by city were identified. 
 
 The link to the original dataset on Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
